@@ -7,7 +7,7 @@ Chơi ngay: mở trang GitHub Pages của kho này.
 ## Điều khiển
 
 WASD di chuyển · chuột ngắm · chuột trái bắn · giữ chuột phải ngắm kỹ · R nạp đạn · 1–5 chọn súng · 6 tay không ·
-C ngồi · Space nhảy · V / chuột giữa đánh báng súng · T hoặc F5 đổi góc nhìn thứ nhất / thứ ba · F2 cài đặt nâng cao
+C ngồi · Space nhảy · V / chuột giữa đánh báng súng · F2 cài đặt nâng cao
 
 ## Ghi công
 
